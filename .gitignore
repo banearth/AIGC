@@ -1,0 +1,14 @@
+node_modules/
+dist/
+tmp/
+outputs/
+assets/
+public/assets/
+
+*.log
+*.local
+.env
+.env.*
+
+.DS_Store
+Thumbs.db
